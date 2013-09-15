@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/main">
+        <file>shaders/quad_150.vert</file>
+        <file>shaders/view_150.frag</file>
+        <file>shaders/morph_150.frag</file>
+    </qresource>
+</RCC>
